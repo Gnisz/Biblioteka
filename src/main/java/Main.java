@@ -28,7 +28,7 @@ public class Main {
 
             switch (wpisywanie){
                 case 1:
-                    System.out.println(" [Wyświetl wszystkie ksiązki] jeszcze nie zaimplementowana");
+                    library.printAllBooks();
                     break;
                 case 2:
                     System.out.println(" [Dodaj ksiązkę] jeszcze nie zaimplementowana");
